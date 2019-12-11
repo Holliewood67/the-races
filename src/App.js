@@ -1,7 +1,6 @@
 import React from 'react';
 import './App.css';
 import CarBars from './Components/CarBars';
-import Bets from './Components/Bets';
 
 class App extends React.Component {
   constructor(props){
